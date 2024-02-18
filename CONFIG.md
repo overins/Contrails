@@ -9,7 +9,7 @@ aruto
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-或図
+或図(調整中)
 
 # description
 
